@@ -5,8 +5,15 @@
   <a href="https://github.com/fabiosanchesr">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabiosanchesr&show_icons=true&theme=dark" />
   </a>
+  <a href="https://github.com/fabiosanchesr">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosanchesr&show_icons=true&theme=dark" />
+  </a>
 </div>
 
+<div style="display: inline_block"><br>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+</div>
 
 
 <!--
