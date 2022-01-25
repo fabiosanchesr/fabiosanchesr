@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there I'm Fábio Ribeiro
+
+🌱 I’m currently learning React
+<div>
+  <a href="https://github.com/fabiosanchesr">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabiosanchesr&show_icons=true&theme=dark" />
+  </a>
+</div>
+
+
 
 <!--
 **fabiosanchesr/fabiosanchesr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
